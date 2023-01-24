@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1672468240 source:e:\c code\babyswitchstatement\main.c
+	<stdio.h>
+	<stdlib.h>
+

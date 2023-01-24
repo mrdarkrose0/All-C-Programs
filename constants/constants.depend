@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1672256564 source:e:\c code\constants\main.c
+	<stdio.h>
+	<stdlib.h>
+	"const.h"
+
+1672258290 e:\c code\constants\const.h
+

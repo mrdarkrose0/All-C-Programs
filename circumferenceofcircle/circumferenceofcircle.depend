@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672403847 source:e:\c code\circumferenceofcircle\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
